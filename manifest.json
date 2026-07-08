@@ -1,7 +1,7 @@
 {
-  "name": "Radio Fusion Austral",
-  "short_name": "Fusion Austral",
-  "description": "Desde la Patagonia al Mundo",
+  "name": "Radio Ruta 66",
+  "short_name": "Ruta 66",
+  "description": "Radio Online",
   "start_url": "/",
   "display": "standalone",
   "orientation": "portrait-primary",
